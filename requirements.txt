@@ -1,0 +1,7 @@
+streamlit
+pandas
+supabase
+python-dotenv
+requests
+pypdf
+pdfplumber
