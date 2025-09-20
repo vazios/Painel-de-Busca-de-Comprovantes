@@ -1,0 +1,17 @@
+# Arquivos de ambiente
+.env
+
+# Byte-compiled/optimized/DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Diretórios de ambiente virtual
+venv
+env
+.venv
+
+# Arquivos de IDE
+.idea/
+.vscode/
